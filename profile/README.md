@@ -1,5 +1,5 @@
 # ✨ Welcome to Nxium Developments ✨
-A Organization that aims to intergrate Multiple Softwares
+A Github Organization that aims to intergrate Multiple Softwares
 and create their own Software Products Ecosystem.
 
 ### What we are doing 🛰️
