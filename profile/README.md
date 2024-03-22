@@ -1,12 +1,19 @@
-## Hi there 👋
+# ✨ Welcome to Nxium Developments ✨
+A Github Organization that aims to intergrate Multiple Softwares
+and create their own Software Products Ecosystem.
 
-<!--
+### What they are doing 🛰️
 
-**Here are some ideas to get you started:**
+They have currently worked on NextLanguage a computer language 💻
+that aims to take security to the next level with multiple
+intergrated security measures that aims to protect any files and
+data written with it securely. Although this language is still
+under major development, it shows massive signs of improvement
+with each release they improves the filesystem, security measures
+and many more.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+They have now moved on to developing NextLibrary using NextLanguage
+that they will use for all of their products, NextLibrary serves as
+a major requirement for their Software. If not installed the product
+may not work, with many features of NextLanguage now beginning to
+require NextLibrary to work.
